@@ -1,0 +1,46 @@
+.colors {
+    background: url(../images/letting-go.jpg);
+    width: 400px;
+    padding: 100px 100px;
+    margin: 200px 200px;
+    border-radius: 10px;
+    margin: 100px auto;
+    
+}
+
+button {
+    margin-top: 60px;
+    padding: 20px 10px;
+    background-color: rgb(17, 16, 90);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    font-size: 18px;
+
+    }
+
+    #quoteDisplay {
+        color:rgb(101, 101, 172);
+        padding: 15px 15px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    .quoteback {
+        background-color: whitesmoke;
+        border-radius: 6px;
+        border-style: groove;
+    }
+
+    h1 {
+        color: rgb(101, 101, 172);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 22px;
+    }
+
+body {
+    /* color: lightcyan; */
+    background: url(../images/one.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
